@@ -7,7 +7,7 @@
 ---
 
 - 💻 **game dev**
-- ☕️ **enjoy a fine brew**
+- ☕️ **enjoying a fine brew**
 - 📚 **always learning**
 
 ---
