@@ -9,6 +9,5 @@
 - 💻 **game dev**
 - ☕️ **enjoy a fine brew**
 - 📚 **always learning**
-test
 
 ---
