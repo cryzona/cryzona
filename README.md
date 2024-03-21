@@ -2,7 +2,7 @@
 
 <hr>
 
-<h1 align="left">hello traveler</h1>
+<h1 align="left">hello traveler, come take a seat at the tavern</h1>
 
 ---
 
