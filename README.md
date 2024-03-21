@@ -10,7 +10,7 @@
 - ☕️ **enjoying a fine brew**
 - ☀️ **working on C#**
 - 🌛 **learning Unity**
-- 🧙‍♂️ **crafting spells**
+- 🧙‍♂️ **crafting & casting spells**
 - 📚 **always learning**
 
 ---
