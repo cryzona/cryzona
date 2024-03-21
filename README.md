@@ -8,6 +8,9 @@
 
 - 💻 **game dev**
 - ☕️ **enjoying a fine brew**
+- ☀️ **working on C#**
+- 🌛 **learning Unity**
+- 🧙‍♂️ **crafting spells**
 - 📚 **always learning**
 
 ---
