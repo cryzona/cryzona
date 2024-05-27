@@ -6,10 +6,10 @@
 
 ---
 
-- 💻 **game dev**
+- 💻 **cyberfolk**
 - ☕️ **enjoying a fine brew**
-- ☀️ **working on C#**
-- 🌛 **learning Unity**
+- ☀️ **working on cybersecurity certs**
+- 🌛 **learning offensive security**
 - 🧙‍♂️ **crafting & casting spells**
 - 📚 **always learning**
 
