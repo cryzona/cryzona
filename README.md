@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines="Come+Take+a+Seat+at+the+Tavern!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=Come+Take+a+Seat+at+the+Tavern!" alt="Typing SVG" />
 </div>
 
 <hr>
