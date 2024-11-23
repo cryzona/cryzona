@@ -12,9 +12,9 @@
 
 ---
 
-- 💻 **gomu**
+- 💻 **arcanesprite**
 - ☕️ **enjoying a fine brew**
-- ☀️ **working on a game engine**
+- ☀️ **working in Unreal**
 - 🌛 **learning C++**
 - 🧙‍♂️ **crafting & casting spells**
 - 📚 **always learning**
