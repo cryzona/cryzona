@@ -35,12 +35,12 @@
 
 ---
 
-[comment]: <> (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomuscript&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="gomu" /></p>)
+[comment]: <> (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cryzona&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="gomu" /></p>)
 
-[comment]: <> (![gomu's github stats]&#40;https://github-readme-stats.vercel.app/api?username=gomuscript&show_icons=true&theme=solarized-dark&#41; )
+[comment]: <> (![gomu's github stats]&#40;https://github-readme-stats.vercel.app/api?username=cryzona&show_icons=true&theme=solarized-dark&#41; )
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomuscript&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
+  <img width="425px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryzona&theme=solarized-dark&show_icons=true&locale=en&layout=compact" alt="Most used language">
  </a></p>
 
 ---
@@ -61,7 +61,7 @@
 
 <!-- Visitor count -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/gomuscript/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/cryzona/count.svg?"  />
 </div>
 
 ---
