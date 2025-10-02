@@ -60,8 +60,8 @@
 ###
 
 <!-- Visitor count -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/cryzona/count.svg?"  />
-</div>
+</div> -->
 
 ---
