@@ -14,8 +14,8 @@
 
 - 💻 **arcanesprite**
 - ☕️ **enjoying a fine brew**
-- ☀️ **working in Unreal**
-- 🌛 **learning C++**
+- ☀️ **working on CYSA+**
+- 🌛 **studying for certs**
 - 🧙‍♂️ **crafting & casting spells**
 - 📚 **always learning**
 
